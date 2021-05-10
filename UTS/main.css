@@ -1,0 +1,40 @@
+body{
+	background-color: #efefef;
+
+}
+.container h3{
+	margin-top: 60px;
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+}
+
+.container h5{
+	text-align: center;
+
+}
+.card{
+	margin-top: 50px;
+	margin: center; 
+
+
+}
+.card-body{
+	background:#efefef;
+	border-color: none;
+
+}
+.btn {
+	margin-top: 20px;
+}
+.card p{
+text-align: center;
+}
+.container .soal{
+	text-align: center;
+	font-size: 20px;
+
+}
+.container .btn{
+margin-top: 0px;
+
+}
