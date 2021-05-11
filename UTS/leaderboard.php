@@ -33,7 +33,7 @@ $result = mysqli_query($conn, "SELECT nama,email,score FROM data_tebak ORDER BY 
         echo "<tr>";}    
         ?>
       </table>     
-<a style="margin-right: 10px, margin-top:20px; " class="btn btn-success" href="ulang.php" role="button">Mulai Lagi</a>
+<a style="margin-right: 10px, margin-top:20px; " class="btn btn-success" href="ulanggame.php" role="button">Mulai Lagi</a>
 <a style="margin-right: 10px, margin-top:20px;" class="btn btn-danger" href="reload.php" role="button">Logout</a>
 </div>
 </div>
