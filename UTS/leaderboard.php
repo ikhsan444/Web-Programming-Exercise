@@ -41,3 +41,4 @@ $result = mysqli_query($conn, "SELECT nama,email,score FROM data_tebak ORDER BY 
 </div>
 </body>
 </html>
+
