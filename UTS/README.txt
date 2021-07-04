@@ -15,3 +15,5 @@ Penejelasan game:
     pilih logout jika ingin mengakhir game
    
 Url aplikasi = http://pwebk3519019.epizy.com
+
+Note : link aplikasi telah dihapus penyedia layanan web hosting karena tidak aktif
